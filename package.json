@@ -12,7 +12,7 @@
     "prod:watch": "cross-env NODE_ENV=production webpack --config webpack.config.js --watch --mode=production"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.21.1",
     "mapbox-gl": "^2.2.0",
     "mapbox-gl-vue": "^2.0.4",
     "stylelint-config-standard": "^21.0.0",
